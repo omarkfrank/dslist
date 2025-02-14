@@ -8,7 +8,6 @@ public class GameDTO {
 
 	private Long id;
 	private String title;
-
 	private Integer year;
 	private String genre;
 	private String platforms;
